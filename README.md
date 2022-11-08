@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thanura09
 - 👀 I’m interested in Robotic Process Automation
 - 🌱 I’m currently learning Microsoft Power Platform and UiPath
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Power Automate
 - 📫 How to reach me thanuramarapana003@gmail.com
 
 <!---
